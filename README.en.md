@@ -67,7 +67,7 @@ La lógica principal se divide en:
 
 ## Código recomendado para revisar
 
-[`Project/Assets/Scripts/Repeater.cs`](./Project/Assets/Scripts/Repeater.cs)
+[`Project/Assets/Scripts/Repeater.cs`](./Project/PRJ_Rayos3D/Assets/Scripts/Repeater.cs)
 
 ## Build
 
