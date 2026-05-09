@@ -51,7 +51,7 @@ La interacción principal consiste en colocar espejos con clic izquierdo, rotarl
 
 Ruta prevista:
 
-![Gameplay](./Media/screenshots/gameplay-01.png)
+![Gameplay](../Media/screenshots/gameplay-01.png)
 
 ## Arquitectura
 
@@ -66,13 +66,13 @@ Más información en:
 
 ## Código recomendado para revisar
 
-[`Project/Assets/Scripts/Repeater.cs`](./Project/Assets/Scripts/Repeater.cs)
+[`PRJ_Rayos3D/Assets/Scripts/Repeater.cs`](./PRJ_Rayos3D/Assets/Scripts/Repeater.cs)
 
 ## Build
 
 La build está disponible en GitHub Releases.
 
-[`Releases/Download.md`](./Releases/Download.md)
+[`Releases/Download.md`](../Releases/Download.md)
 
 [Descargar build U003-v1.0.0](https://github.com/BLRochaGonzalez93/U003_Ray_Connection_3D/releases/tag/U003-v1.0.0)
 

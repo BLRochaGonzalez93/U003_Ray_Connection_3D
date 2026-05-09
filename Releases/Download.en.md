@@ -70,4 +70,4 @@ Playable technical prototype.
 
 ## Repository
 
-[View project repository](https://github.com/BLRochaGonzalez93/U010_Sokar/U003_Ray_Connection_3D)
+[View project repository](https://github.com/BLRochaGonzalez93/U003_Ray_Connection_3D)
